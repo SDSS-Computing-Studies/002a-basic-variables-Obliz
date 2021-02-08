@@ -1,10 +1,8 @@
 #! python 3
 
-fnname = "Owen"
-space = " "
-mdname = "William Miller"
-lsname = "Thomas"
+fname = "Mr"
+lname = "Yang"
 
-name = fnname + space + mdname + space + lsname
+name = fname + lname
 
 print(name)
